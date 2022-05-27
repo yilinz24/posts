@@ -1,0 +1,24 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yilinz24/posts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yilinz24/posts/issues"
+  },
+  "homepage": "https://github.com/yilinz24/posts#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "multer": "^1.4.4",
+    "pg": "^8.7.3"
+  }
+}
